@@ -5,7 +5,7 @@ permalink: /
 subtitle: MSc in Artificial Intelligence · <a href='https://www.unibo.it/en'>University of Bologna</a>
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Erfan-Samieyan-Sahneh-prof_pic.jpg
   image_circular: false
   more_info: >
     <p>Bologna, Italy</p>
