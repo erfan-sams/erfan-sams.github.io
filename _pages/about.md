@@ -23,8 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-I study how AI systems shape public information, knowledge, and behavior. My work combines computational methods with questions about the political and social implications of AI-mediated information.
+I study how AI systems shape public information, knowledge, and behavior. How do they reorganize what we know, believe, and how we act? My work combines computational methods with questions about the political and epistemological dimensions of AI.
 
 Previously, I worked as a research assistant at IT University of Copenhagen with [Luca M. Aiello](https://www.lajello.com/) and on the [CARISMA](https://www.carisma-project.eu/) project with [Silvia Giordano](https://www.supsi.ch/silvia-giordano-cremonese), [Filippo Menczer](https://cnets.indiana.edu/fil/), [Luca Luceri](https://www.lucaluceri.com/), and [Francesco Pierri](https://pierri.faculty.polimi.it/).
-
-My research interests lie at the intersection of computational social science and the political and epistemological dimensions of AI. How do these systems reorganize what we know, believe, and how we act?
