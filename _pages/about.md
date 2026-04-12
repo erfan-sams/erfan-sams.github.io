@@ -25,6 +25,6 @@ latest_posts:
 
 I study how AI systems shape public information, knowledge, and behavior. My work combines computational methods with questions about the political and social implications of AI-mediated information.
 
-Previously, I worked as a research assistant at IT University of Copenhagen with [Luca M. Aiello](https://www.lajello.com/) and at SUPSI with [Filippo Menczer](https://cnets.indiana.edu/fil/) and [Luca Luceri](https://www.lucaluceri.com/) on the [CARISMA](https://www.carisma-project.eu/) project.
+Previously, I worked as a research assistant at IT University of Copenhagen with [Luca M. Aiello](https://www.lajello.com/) and at SUPSI with [Silvia Giordano] (https://www.supsi.ch/silvia-giordano-cremonese), [Filippo Menczer](https://cnets.indiana.edu/fil/), [Luca Luceri](https://www.lucaluceri.com/), and [Francesco Pierri]([https://www.lucaluceri.com/](https://pierri.faculty.polimi.it/)) on the [CARISMA](https://www.carisma-project.eu/) project.
 
 My research interests lie at the intersection of AI auditing, computational social science, and the political dimensions of AI — how these systems reorganize what we know, believe, and how we act.
